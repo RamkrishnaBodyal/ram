@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('Ramkrishna.png');
+    /* Replace 'background.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    /* Optional: Set a font */
+}
+
+.content {
+    background-color: rgba(255, 255, 255, 0.7);
+    /* Optional: Add a semi-transparent background for better readability */
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 600px;
+    text-align: center;
+}
